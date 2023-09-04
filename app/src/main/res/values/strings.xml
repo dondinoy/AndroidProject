@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">RickAndMortyNew</string>
+    <string name="img">img</string>
+    <string name="character_origen">Origen</string>
+    <string name="character_name">Name</string>
+    <string name="character_status">Character Status</string>
+    <string name="species_value">Species Value</string>
+    <string name="character_species">Species</string>
+    <string name="origin_value">origin value</string>
+    <string name="divider">divider</string>
+    <string name="gender">gender</string>
+    <string name="genderimage">genderimage</string>
+    <string name="menue">MENUE</string>
+    <string name="species">Species</string>
+    <string name="textview2">TextView2</string>
+    <string name="ctitle">ctitle</string>
+    <string name="cimage">cimage</string>
+    <string name="character">Character:</string>
+    <string name="htitle" />
+    <string name="backb">BACKB</string>
+    <string name="back">back</string>
+    <string name="simply_morty">Simply Morty</string>
+    <string name="m">.</string>
+    <string name="episods">Episods</string>
+    <string name="locations">Locations</string>
+    <string name="search">Search</string>
+    <string name="more">More</string>
+    <string name="more2">more2</string>
+    <string name="ep">S01E01</string>
+    <string name="moreinfo">Some episode name\nMay23,2021</string>
+    <string name="rickandmortyapp">RickAndMortyApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="characterid">character</string>
+    <string name="characterId">characterId</string>
+    <string name="all_characters">All Characters</string>
+    <string name="all_episode">All Episode</string>
+    <string name="episodes">Episodes</string>
+    <string name="logoimage">logo\n</string>
+    <string name="episodestitle">episodes\n</string>
+    <string name="characterstitle">characters\n</string>
+    <string name="searchfield">searchfield</string>
+    <string name="name">Name</string>
+    <string name="searchname">searchname\n</string>
+    <string name="searchimage">searchimage</string>
+</resources>
